@@ -1,1 +1,2 @@
 # Web.js
+Web Dictionary
